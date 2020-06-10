@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="fractal">img/fractalSketch.jpg</file>
+        <file alias="alberto">img/AlbertoPhoto.png</file>
+        <file alias="shawn">img/ShawnPhoto.png</file>
+    </qresource>
+</RCC>
