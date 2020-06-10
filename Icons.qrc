@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="up">Icons/481111-arrows/svg/035-up-4.svg</file>
+        <file alias="left">Icons/481111-arrows/svg/036-left-5.svg</file>
+        <file alias="right">Icons/481111-arrows/svg/039-right-6.svg</file>
+        <file alias="down">Icons/481111-arrows/svg/042-down-4.svg</file>
+        <file>Icons/2089586-interface/svg/096-settings.svg</file>
+        <file>Icons/2089586-interface/svg/098-export.svg</file>
+        <file alias="colors">Icons/1157969.svg</file>
+        <file alias="home">Icons/2052632.svg</file>
+        <file alias="appIcon">Icons/1_Logo_Triangular_fractal.svg</file>
+        <file alias="QtIcon">Icons/Qt_logo_2016.svg</file>
+        <file alias="ship">Icons/space-shuttle.svg</file>
+        <file alias="zoomIn">Icons/2089586-interface/svg/123-zoom in.svg</file>
+        <file alias="zoomOut">Icons/2089586-interface/svg/124-zoom out.svg</file>
+    </qresource>
+</RCC>
