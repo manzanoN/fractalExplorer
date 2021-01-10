@@ -21,6 +21,6 @@ The graphical representation of the Mandelbrot set on the complex planes yields 
 
 <img src="img/Main.png" alt="Main" style="zoom:40%;" />
 
-<img src="img/mandel_Screen.png" alt="Main" style="zoom:40%;" />
+<img src="img/mandel_screen.png" alt="Main" style="zoom:40%;" />
 
-<img src="img/mandel_Screen2.png" alt="Main" style="zoom:40%;" />
+<img src="img/mandel_screen2.png" alt="Main" style="zoom:40%;" />
